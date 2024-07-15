@@ -1,0 +1,68 @@
+.category-title{
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.button-primary{
+    outline: 0;
+    background-color: #3590de !important;
+    max-width: 400px;
+    min-width: 300px;
+    // height: 40px;
+    &:focus{
+        outline: 0;
+        box-shadow: none;
+    }
+}
+
+.button-info{
+    outline: 0;
+    background-color: #009da6 !important;
+    min-width: 75px;
+    // height: 40px;
+    &:focus{
+        outline: 0;
+        box-shadow: none;
+    }
+}
+.button-default{
+    outline: 0;
+    background-color: #ffc654 !important;
+    width: 50px;
+    // height: 40px;
+    &:focus{
+        outline: 0;
+        box-shadow: none;
+    }
+}
+.button-add{
+    outline: 0;
+    background-color: #049ad1 !important;
+    width: 150px;
+    // height: 40px;
+    &:focus{
+        outline: 0;
+        box-shadow: none;
+    }
+}
+.button-add-cater{
+    outline: 0;
+    background-color: #049ad1 !important;
+    width: 70px;
+    // height: 40px;
+    &:focus{
+        outline: 0;
+        box-shadow: none;
+    }
+}
+
+.button-close{
+    outline: 0;
+    background-color: #ff5454 !important;
+    width: 70px;
+    border: none;
+    &:focus{
+        outline: 0;
+        box-shadow: none;
+    }
+}
